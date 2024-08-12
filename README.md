@@ -2,14 +2,6 @@
 <h1 align="center">Hi 👋, I'm Aryan Sahu</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" align="right" alt="coding" width="400">
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan-sahu1&label=Profile%20views&color=0e75b6&style=flat" alt="aryan-sahu1" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryan-sahu1" alt="aryan-sahu1" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🔭 I’m currently working on **js Projects + reactjs**
 
 - 🌱 I’m currently learning **Reactjs, Nodejs, Nextjs**
@@ -30,9 +22,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/aryan-sahu1"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aryan-sahu1" /></a><a href="https://ko-fi.com/aryan-sahu1"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="aryan-sahu1" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryan-sahu1&show_icons=true&locale=en&layout=compact" alt="aryan-sahu1" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryan-sahu1&show_icons=true&locale=en" alt="aryan-sahu1" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryan-sahu1&" alt="aryan-sahu1" /></p>
