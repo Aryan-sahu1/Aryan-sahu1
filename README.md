@@ -1,4 +1,4 @@
-[![MasterHead](https://wptavern.com/wp-content/uploads/2014/06/revisr-banner.png)
+[![MasterHead](https://i.imgur.com/JxOlxxd.png)
 <h1 align="center">Hi 👋, I'm Aryan Sahu</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" align="right" alt="coding" width="400">
