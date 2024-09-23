@@ -4,7 +4,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" align="right" alt="coding" width="400">
 - 🔭 I’m currently working on **js Projects + reactjs**
 
-- 🌱 I’m currently learning **Reactjs, Nodejs, Nextjs**
+- 🌱 I’m currently learning **Reactjs, Nodejs, Nestjs**
 
 - 👯 I’m looking to collaborate on **HTML, CSS,Javascript and React js**
 
